@@ -41,7 +41,7 @@ $$
 
 Для определения координат самолета используем метод наименьших квадратов (МНК):
 
-![telegram-cloud-photo-size-2-5267368898955699407-y](https://github.com/user-attachments/assets/547b6460-db20-41ce-9bca-9b9ab1bde1fa)
+![telegram-cloud-photo-size-1-5267368898955699407-y](https://github.com/user-attachments/assets/547b6460-db20-41ce-9bca-9b9ab1bde1fa)
 
 
 Далее будем искать такие решения, которые минимизируют эту сумму, применяя алгоритм Гаусса-Ньютона. Обозначив за \(x\) вектор решений \((x, y, z)\), получим:
